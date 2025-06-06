@@ -1,3 +1,6 @@
-Este projeto foi criado com o intuito de mostrar a conexão do campo e da cidade.
+Este projeto foi criado com o intuito de mostrar a conexão entre campo e cidade, demonstrando que apesar das divergências ambos os locais podem dar as mãos, afinal a área urbana e a rural dependem uma da outra para existir.
 Ele foi elaborado com os conhecimentos adquiridos em aulas e com muito esforço.
-Use o mouse o arrastando para a direita e veja a palavra se formar. 
+Usando o mouse e o arrastando para a direita ira ver uma palavra se formar. 
+Nome: Julyana Gonçalves Machado.
+Escola: Colégio Estadual do Campo de Faxinal dos Francos.
+Núcleo: Irati.
